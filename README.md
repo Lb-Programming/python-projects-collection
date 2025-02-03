@@ -16,10 +16,15 @@ A curated collection of Python projects showcasing various applications, from da
 - 📊 **Pandas, NumPy** (Data Analysis)  
 - 📉 **Matplotlib, Seaborn** (Data Visualization)  
 - 🌐 **Flask, Django** (Web Development)  
-- 🕵️‍♂️ **BeautifulSoup, Requests** (Web Scraping)  
+- 🕵️‍♂️ **BeautifulSoup, Requests** (Web Scraping)
+
+## 🎥 Watch the Projects in Action!  
+
+You can see all of these projects as videos on my Instagram:  
+👉 [lb_programming on Instagram](https://www.instagram.com/lb_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  
 
 ## 🚀 How to Use  
 
-1. ⬇️ **Clone the repository:**  
+ ⬇️ **Clone the repository:**  
    ```sh
    git clone https://github.com/Lb-Programming/python-projects-collection.git
